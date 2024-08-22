@@ -1,3 +1,5 @@
+![coast-landscape-digital-art (1)](https://github.com/user-attachments/assets/c9d180b6-1c9e-4c0f-8312-853a0a0b2c4e)
+
 <h1 align="center">Hi 👋, I'm Suleman Mohiuddin</h1>
 <h3 align="center">FAST'25 BS-SE</h3>
 - 🌱 I’m currently learning **Machine Learning / Deep Learning and Unreal engine **<br>
